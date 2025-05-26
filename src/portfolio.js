@@ -49,7 +49,7 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "Mes compétences",
-  subTitle: "Développeur full stack enthousiaste, cuireux d'explorer toutes les technologies.",
+  subTitle: "Développeur full stack enthousiaste, curieux d'explorer toutes les technologies.",
   skills: [
     emoji(
       "⚡ Passionné par la création d’interfaces fluides et intuitives avec React"
