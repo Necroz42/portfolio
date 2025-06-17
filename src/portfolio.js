@@ -218,32 +218,32 @@ const workExperiences = {
       company: "Archimède",
       companylogo: require("./assets/images/Logo Archimede.png"),
       date: "Mars 2025 – Présent",
-      desc: "Logiciel de modélisation 3D intuitif permettant de créer, modifier et personnaliser des espaces en trois dimensions. Fonctionnalités d’extrusion, assemblage d’objets.",
-      /*descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
-      ]*/
+      desc: "Application de modélisation 3D intuitive permettant de créer, modifier et personnaliser des environnements en trois dimensions. J’y ai développé le système d’authentification utilisateur ainsi que les fonctionnalités de gestion, chargement et sauvegarde de projets.",
+      // descBullets: [
+      //   "https://",
+      //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+      // ]
     },
     {
       role: "Scrum master, Développeur",
       company: "Orbital Overlord",
       companylogo: require("./assets/images/Logo Orbital Overlord.png"),
       date: "Septembre 2024 – Février 2025",
-      desc: "Jeu vidéo multijoueur axé sur la gestion de ressources, le commerce et la diplomatie. Sur votre planète, vous devrez vous développer afin d’acquérir des technologies vous permettant l’exploration spatiale."
+      desc: "Jeu vidéo multijoueur stratégique centré sur la gestion de ressources, le commerce et la diplomatie. J’ai développé les mécaniques de construction de bâtiments pour le développement de base, ainsi que les systèmes d’attaque contre d’autres joueurs et de défense de sa propre base."
     },
     {
       role: "Scrum master, Développeur",
       company: "E-conomitiens",
       companylogo: require("./assets/images/Logo_E-conomitien.jpg"),
       date: "Mars 2024 – Juillet 2024",
-      desc: "Une application de supervision en temps réel de la température des pièces. Implémentation de capteurs dans les salles de l’ESIEA, avec statistiques journalières, hebdomadaires et annuelles."
+      desc: "Une application de supervision en temps réel de la température des pièces d'un bâtiment. J’ai mis en place le système d’alertes, l’affichage des salles sur le plan, et assuré la gestion complète de la base de données."
     },
     {
       role: "Développeur",
       company: "ESIEAsso",
       companylogo: require("./assets/images/Logo Esieasso E.png"),
       date: "Septembre 2023 – Février 2024",
-      desc: "Un site web regroupant les associations étudiantes de l’ESIEA, avec de nombreuses fonctionnalités comme le regroupement des évènements, ou la centralisation des cotisations."
+      desc: "Un site web regroupant les associations étudiantes de l’ESIEA. J'ai développé un calendrier où est affiché tous les évènements des associations, et géré les données utilisateur."
     }
   ]
 };
